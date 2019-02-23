@@ -2,4 +2,4 @@
 	monopoly[:railroads] = {}
 	
 	
-	puts monopoly[:railroads]
+	puts monopoly[:railroads].nil?
